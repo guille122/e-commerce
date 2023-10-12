@@ -1,0 +1,36 @@
+
+h1{
+    font-size: 5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    
+    
+}
+nav{
+    background-color: cadetblue;
+   padding-top: 10px;
+   padding-bottom: 5px;
+   border-radius: 15px 15px 15px;
+   border: outset;
+   
+   
+  
+   
+   
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+     font-size: 2rem;
+     margin: 5px;
+     
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+}
